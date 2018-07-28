@@ -283,14 +283,9 @@ enableGitInfo = false
 #  weight = 3
 
 #[[menu.main]]
-#  name = "Talks/Posters"
-#  url = "#talks"
-#  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"

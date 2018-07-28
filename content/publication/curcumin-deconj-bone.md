@@ -1,7 +1,7 @@
 +++
 title = "Curcumin is deconjugated in bone by hematopoietic β-glucuronidase to inhibit breast cancer TGFβ signaling"
 date = 2018-07-28T11:38:39-07:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andrew G Kunihiro", "Julia A Brickey", "Jennifer B Frye", "Paula B Luis", "Claus Schneider","Janet L Funk"]
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

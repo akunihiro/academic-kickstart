@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Nutritional Sciences"
   institution = "University of Arizona"
-  year = 2019, expected
+  year = 2019
 
 [[education.courses]]
   course = "MS in Nutritional Sciences"

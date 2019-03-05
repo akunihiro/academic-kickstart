@@ -1,10 +1,10 @@
 +++
-title = "Curcumin is deconjugated in bone by hematopoietic β-glucuronidase to inhibit breast cancer TGFβ signaling"
+title = "Beta-Glucuronidase Catalyzes Deconjugation and Activation of Curcumin-Glucuronide in Bone"
 date = 2018-07-28T11:38:39-07:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Andrew G Kunihiro", "Julia A Brickey", "Jennifer B Frye", "Paula B Luis", "Claus Schneider","Janet L Funk"]
+authors = ["Andrew G Kunihiro", "Paula B Luis", "Jennifer B Frye", "Julia A Brickey", "Claus Schneider","Janet L Funk"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["Andrew G Kunihiro", "Julia A Brickey", "Jennifer B Frye", "Paula B L
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Preparation"
-publication_short = ""
+publication = "Journal of Natural Products"
+publication_short = "JNP"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://pubs.acs.org/doi/10.1021/acs.jnatprod.8b00873"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

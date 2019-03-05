@@ -1,5 +1,5 @@
 +++
-title = "Curcumin, but not curcumin-glucuronide, inhibits Smad-signaling in TGFβ-dependent bone metastatic breast cancer cells and is locally enriched in bone"
+title = "Curcumin, but not curcumin-glucuronide, inhibits Smad-signaling in TGFβ-dependent bone metastatic breast cancer cells and is enriched in bone compared to other tissues"
 date = 2018-07-28T11:41:49-07:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Andrew G Kunihiro", "Julia A Brickey", "Jennifer B Frye", "Paula B L
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
-publication_short = ""
+publication = "The Journal of Nutritional Biochemistry"
+publication_short = "JNB"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0955286318304704"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

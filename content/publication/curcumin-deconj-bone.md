@@ -1,7 +1,7 @@
 +++
 title = "Beta-Glucuronidase Catalyzes Deconjugation and Activation of Curcumin-Glucuronide in Bone"
 date = 2018-07-28T11:38:39-07:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Andrew G Kunihiro", "Paula B Luis", "Jennifer B Frye", "Julia A Brickey", "Claus Schneider","Janet L Funk"]
